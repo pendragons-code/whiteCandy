@@ -23,3 +23,8 @@ or Change via distribution specific `tweak-tool`.
 You can also combine this icon pack with [sweet-folders](https://github.com/EliverLara/Sweet-folders) to get an awesome custom experience:
 
 ![](preview/folders.png)
+
+
+## Info
+
+This is a fork of the original project, please support the official release [here](https://github.com/EliverLara/candy-icons)!
